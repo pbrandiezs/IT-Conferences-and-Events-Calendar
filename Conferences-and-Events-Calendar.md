@@ -1,4 +1,4 @@
-# H1 IT Conferences and Events Calendar
+# IT Conferences and Events Calendar
 
 | Start      | End        | Event         | Link                            |
 | ---------- | ---------- | ------------- | ------------------------------- |
