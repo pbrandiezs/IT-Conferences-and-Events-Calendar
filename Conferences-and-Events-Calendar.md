@@ -13,5 +13,6 @@
 | 11-16 | 11-17 | Connected Ink 2021 | Virtual   | https://www.wacom.com/en-us/events/connected-ink |
 | 11-29 | 12-03 | AWS re:Invent      | Las Vegas | https://reinvent.awsevents.com/         |
 | 12-02 | 12-03 | EnterpriseNG       | Virtual   | https://enterprise.ng-conf.org/         |
+| 12-08 | 12-08 | React Conf 2021    | Virtual   | https://conf.reactjs.org/               |
 | 2022  |       |                    |           |                                         |
 | 05-10 |       | DockerCon 2022     |           | Save the date                           |
