@@ -14,5 +14,6 @@
 | 11-29 | 12-03 | AWS re:Invent      | Las Vegas | https://reinvent.awsevents.com/         |
 | 12-02 | 12-03 | EnterpriseNG       | Virtual   | https://enterprise.ng-conf.org/         |
 | 12-08 | 12-08 | React Conf 2021    | Virtual   | https://conf.reactjs.org/               |
+| 12-15 | 12-15 | Tech A11y Summit   | Virtual   | https://www.techa11y.dev/               |
 | 2022  |       |                    |           |                                         |
 | 05-10 |       | DockerCon 2022     |           | Save the date                           |
