@@ -18,6 +18,7 @@
 | 2022  |       |                    |           |                                         |
 | 03-14 | 03-16 | SREcon22 Americas  | San Francisco | https://www.usenix.org/conference/srecon22americas |
 | 04-27 | 05-03 | Pycon US 2022      | Salt Lake City | https://us.pycon.org/2022/         |
+| 05-04 | 05-05 | Microsoft JDConf   | Virtual   | https://docs.microsoft.com/en-us/events/learntv/jdconf-2022 |
 | 05-10 |       | DockerCon 2022     |           | Save the date                           |
 | 05-10 | 05-11 | Red Hat Summit 2022 | Virtual / Boston | https://www.redhat.com/en/summit |
 | 06-16 | 06-20 | JS Nation          | Amsterdam / Remote | https://jsnation.com/          |
