@@ -16,7 +16,8 @@
 | 12-08 | 12-08 | React Conf 2021    | Virtual   | https://conf.reactjs.org/               |
 | 12-15 | 12-15 | Tech A11y Summit   | Virtual   | https://www.techa11y.dev/               |
 | 2022  |       |                    |           |                                         |
-| 03-14 | 03-16 | SREcon22 Americas   | San Francisco | https://www.usenix.org/conference/srecon22americas |
+| 03-14 | 03-16 | SREcon22 Americas  | San Francisco | https://www.usenix.org/conference/srecon22americas |
+| 04-27 | 05-03 | Pycon US 2022      | Salt Lake City | https://us.pycon.org/2022/         |
 | 05-10 |       | DockerCon 2022     |           | Save the date                           |
 | 05-10 | 05-11 | Red Hat Summit 2022 | Virtual / Boston | https://www.redhat.com/en/summit |
 | 06-16 | 06-20 | JS Nation          | Amsterdam / Remote | https://jsnation.com/          |
