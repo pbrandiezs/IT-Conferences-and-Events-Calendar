@@ -23,5 +23,6 @@
 | 05-10 |       | DockerCon 2022     |           | Save the date                           |
 | 05-10 | 05-11 | Red Hat Summit 2022 | Virtual / Boston | https://www.redhat.com/en/summit |
 | 05-24 | 05-26 | Microsoft Build    | Virtual   | https://mybuild.microsoft.com/en-US/home |
+| 06-06 | 06-09 | Blueprint 4D       | Virtual / Las Vegas | https://questoraclecommunity.org/events/conferences/blueprint4d |
 | 06-16 | 06-20 | JS Nation          | Amsterdam / Remote | https://jsnation.com/          |
 | 08-11 | 08-14 | Defcon             | Las Vegas | https://defcon.org/                     |
