@@ -21,6 +21,7 @@
 | 04-28 | 04-28 | WTF is SRE         | Virtual   | https://www.cloud-native-sre.wtf        |
 | 05-04 | 05-05 | Microsoft JDConf   | Virtual   | https://docs.microsoft.com/en-us/events/learntv/jdconf-2022 |
 | 05-10 |       | DockerCon 2022     |           | Save the date                           |
+| 05-11 | 05-12 | Google I/O         | Virtual   | https://io.google/2022/                 |
 | 05-10 | 05-11 | Red Hat Summit 2022 | Virtual / Boston | https://www.redhat.com/en/summit |
 | 05-24 | 05-26 | Microsoft Build    | Virtual   | https://mybuild.microsoft.com/en-US/home |
 | 06-06 | 06-09 | Blueprint 4D       | Virtual / Las Vegas | https://questoraclecommunity.org/events/conferences/blueprint4d |
