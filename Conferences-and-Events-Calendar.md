@@ -28,3 +28,4 @@
 | 06-06 | 06-09 | Blueprint 4D       | Virtual / Las Vegas | https://questoraclecommunity.org/events/conferences/blueprint4d |
 | 06-16 | 06-20 | JS Nation          | Amsterdam / Remote | https://jsnation.com/          |
 | 08-11 | 08-14 | Defcon             | Las Vegas | https://defcon.org/                     |
+| 10-24 | 10-28 | iJS International JavaScript Conference | Virtual / Munich | https://javascript-conference.com/munich |
