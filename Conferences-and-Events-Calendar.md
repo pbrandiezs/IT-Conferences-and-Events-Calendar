@@ -29,3 +29,4 @@
 | 06-16 | 06-20 | JS Nation          | Amsterdam / Remote | https://jsnation.com/          |
 | 08-11 | 08-14 | Defcon             | Las Vegas | https://defcon.org/                     |
 | 10-24 | 10-28 | iJS International JavaScript Conference | Virtual / Munich | https://javascript-conference.com/munich |
+| 11-28 | 12-02 | AWS re:Invent      | Las Vegas | https://reinvent.awsevents.com/         |
