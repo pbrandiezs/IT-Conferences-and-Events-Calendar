@@ -28,5 +28,7 @@
 | 06-06 | 06-09 | Blueprint 4D       | Virtual / Las Vegas | https://questoraclecommunity.org/events/conferences/blueprint4d |
 | 06-16 | 06-20 | JS Nation          | Amsterdam / Remote | https://jsnation.com/          |
 | 08-11 | 08-14 | Defcon             | Las Vegas | https://defcon.org/                     |
+| 10-04 | 10-06 | HashiConf Global   | Virtual / Los Angeles | https://hashiconf.com/global/ |
+| 10-17 | 10-20 | Oracle CloudWorld  | Virtual / Las Vegas | https://www.oracle.com/cloudworld/
 | 10-24 | 10-28 | iJS International JavaScript Conference | Virtual / Munich | https://javascript-conference.com/munich |
 | 11-28 | 12-02 | AWS re:Invent      | Las Vegas | https://reinvent.awsevents.com/         |
