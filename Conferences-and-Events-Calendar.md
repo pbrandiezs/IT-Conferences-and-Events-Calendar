@@ -21,4 +21,4 @@
 | 10-24 | 10-28 | iJS International JavaScript Conference | Virtual / Munich | https://javascript-conference.com/munich |
 | 11-28 | 12-02 | AWS re:Invent      | Las Vegas | https://reinvent.awsevents.com/         |
 | 2023  |       |                    |           |                                         |
-| 02-16 | 02-16 | HashiTalks 2023    | Virtual   | https://events.hashicorp.com/hashitalks2023 |
+| 02-16 | 02-17 | HashiTalks 2023    | Virtual   | https://events.hashicorp.com/hashitalks2023 |
